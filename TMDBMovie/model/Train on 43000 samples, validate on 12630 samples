@@ -1,0 +1,21 @@
+Train on 43000 samples, validate on 12630 samples
+Epoch 1/10
+43000/43000 [==============================] - 96s 2ms/sample - loss: 0.2795 - accuracy: 0.9114 - val_loss: 0.3434 - val_accuracy: 0.9092
+Epoch 2/10
+43000/43000 [==============================] - 93s 2ms/sample - loss: 0.1366 - accuracy: 0.9557 - val_loss: 0.3444 - val_accuracy: 0.9220
+Epoch 3/10
+43000/43000 [==============================] - 94s 2ms/sample - loss: 0.0892 - accuracy: 0.9700 - val_loss: 0.4335 - val_accuracy: 0.9174
+Epoch 4/10
+43000/43000 [==============================] - 95s 2ms/sample - loss: 0.0641 - accuracy: 0.9791 - val_loss: 0.4043 - val_accuracy: 0.9162
+Epoch 5/10
+43000/43000 [==============================] - 94s 2ms/sample - loss: 0.0532 - accuracy: 0.9833 - val_loss: 0.4690 - val_accuracy: 0.9243
+Epoch 6/10
+43000/43000 [==============================] - 94s 2ms/sample - loss: 0.0519 - accuracy: 0.9846 - val_loss: 0.4004 - val_accuracy: 0.9162
+Epoch 7/10
+43000/43000 [==============================] - 93s 2ms/sample - loss: 0.0397 - accuracy: 0.9886 - val_loss: 0.3796 - val_accuracy: 0.9361
+Epoch 8/10
+43000/43000 [==============================] - 94s 2ms/sample - loss: 0.0373 - accuracy: 0.9888 - val_loss: 0.3743 - val_accuracy: 0.9302
+Epoch 9/10
+43000/43000 [==============================] - 94s 2ms/sample - loss: 0.0422 - accuracy: 0.9875 - val_loss: 0.3724 - val_accuracy: 0.9352
+Epoch 10/10
+43000/43000 [==============================] - 95s 2ms/sample - loss: 0.0334 - accuracy: 0.9907 - val_loss: 0.3813 - val_accuracy: 0.9296
